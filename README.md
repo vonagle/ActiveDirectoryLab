@@ -19,7 +19,7 @@ Project consists of creating an Active Directory home lab environment using Orac
 
 <p align="center">
 Oracle Box: Creating Domain Controller and Client <br/>
-<img src="[image](https://github.com/vonagle/ActiveDirectoryLab/assets/59406375/2225f03d-4467-45be-8f4d-491cc44ad42c)" height="80%" width="80%" alt="DC and Client Walkthrough"/>
+<img src="https://github.com/vonagle/ActiveDirectoryLab/blob/main/ww.png" height="80%" width="80%" alt="DC and Client Walkthrough"/>
 <br />
 <br />
 Select the disk:  <br/>
@@ -31,7 +31,7 @@ Enter the number of passes: <br/>
 <br />
 </p>
 [image](https://github.com/vonagle/ActiveDirectoryLab/assets/59406375/2225f03d-4467-45be-8f4d-491cc44ad42c)
-
+https://github.com/vonagle/ActiveDirectoryLab/blob/main/ww.png
 <!--
  ```diff
 - text in red
